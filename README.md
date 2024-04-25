@@ -1,8 +1,6 @@
 # Hola! 👋
 
-I am Elhosen Salama _(Software Engineer)_
-
-I am very passionate about solving problems with technology and creating different solutions.
+I am Elhosen Salama, a Software angineer passionate about solving problems with technology and creating different solutions.
 
 I have a wide range of skills that includes backend development using (NodeJS, NestJS, ExpressJS, Prisma ORM, Mongoose ODM), front development using(HTML, CSS, Javascript, Typescript, React), 
 database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop development using (.Net Framework) :-)
@@ -33,8 +31,8 @@ database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop develop
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
 </br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=elhosensalama" />
+<p align="center">
+  <img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=elhosensalama" width="500px" />
 </p>
 
 <!--
