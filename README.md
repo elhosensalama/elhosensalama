@@ -1,10 +1,11 @@
 # Hola! 👋
 
 I am Elhosen Salama _(Software Engineer)_
+
 passionate about solving problems with technology and creating different solutions.
 
-I have a wide range of skills that includes backend development using (NodeJS, NestJS, ExpressJS, Prisma, MySQL, Mongoose, MongoDB), front development using(HTML, CSS, Javascript, Typescript, React), 
-database(MySql, Oracle), AWS also (EC2, Light Sail) And Desktop development using (.Net Framework) :-)
+I have a wide range of skills that includes backend development using (NodeJS, NestJS, ExpressJS, Prisma ORM, Mongoose ODM), front development using(HTML, CSS, Javascript, Typescript, React), 
+database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop development using (.Net Framework) :-)
 
 - 🔭 I’m currently working on Rasid(Smart Facility Management Platform) Egypt.
 - 🌱 I’m currently learning advanced ReactJS To Become a full-stack developer.
