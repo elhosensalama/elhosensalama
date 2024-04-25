@@ -21,6 +21,8 @@ database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop develop
 [![Mail](https://img.shields.io/badge/Gmail-elhosensalamarashed@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:elhosensalamarashed@gmail.com)
 
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
