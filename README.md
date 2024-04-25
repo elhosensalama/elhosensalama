@@ -20,6 +20,16 @@ database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop develop
 [![Linkedin](https://img.shields.io/badge/LinkedIn-elhosensalama-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/elhosen-salama/)
 [![Mail](https://img.shields.io/badge/Gmail-elhosensalamarashed@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:elhosensalamarashed@gmail.com)
 
+
+<!-- ✅  **GitHub Extra Pins**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=elhosensalama" />
+</p>
+
 <!--
 **elhosensalama/elhosensalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
