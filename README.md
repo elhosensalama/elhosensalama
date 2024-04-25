@@ -13,6 +13,13 @@ database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop develop
 - 🏡 I love being with my family and friends, they are everything to me.
 - ✈️ I love to travel and get to know new places and cultures.
 - ⚽ Passionate about reading Store-based Games and comics.
+
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/elhosensalama?label=Follow%20Me&style=social)](https://github.com/elhosensalama)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-waelelsafty07-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/elhosensalama/)
+[![Mail](https://img.shields.io/badge/Gmail-elhosensalamarashed@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:elhosensalamarashed@gmail.com)
+
 <!--
 **elhosensalama/elhosensalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
