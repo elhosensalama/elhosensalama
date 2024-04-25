@@ -2,7 +2,7 @@
 
 I am Elhosen Salama _(Software Engineer)_
 
-passionate about solving problems with technology and creating different solutions.
+I am very passionate about solving problems with technology and creating different solutions.
 
 I have a wide range of skills that includes backend development using (NodeJS, NestJS, ExpressJS, Prisma ORM, Mongoose ODM), front development using(HTML, CSS, Javascript, Typescript, React), 
 database(MySql, MongoDB, MS-SQL), AWS also (EC2, Light Sail) And Desktop development using (.Net Framework) :-)
